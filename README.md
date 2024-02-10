@@ -8,10 +8,10 @@
 4. Move `models/<x>mpd_Packed.mpd` into project models and import
 
 ### Run locally
-
 ```
 npm vite
 ```
+> http://localhost:5173
 
 ### Build for Github
 (not working yet)
@@ -19,3 +19,5 @@ npm vite
 npm run build
 npm run preview
 ```
+
+> http://localhost:4173
