@@ -11,7 +11,7 @@
 
 ### Run locally
 ```
-npx vite
+npm run dev
 ```
 > http://localhost:5173
 
@@ -19,7 +19,4 @@ npx vite
 (not working yet)
 ```
 npm run build
-npm run preview
 ```
-
-> http://localhost:4173

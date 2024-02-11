@@ -1,7 +1,9 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    base: '',
+    root: "src/",
+    publicDir: "../static/",
+    base: "./",
     server:
     {
         host: true,
