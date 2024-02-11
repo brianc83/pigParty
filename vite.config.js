@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-    base: '',
+export default {
+    root: "src/",
+    publicDir: "../static/",
+    base: "./",
     server:
     {
         host: true,
@@ -13,4 +13,4 @@ export default defineConfig({
         emptyOutDir: true,
         sourcemap: true
     }
-})
+}
