@@ -1,6 +1,6 @@
 # pigParty
 
-> https://brianc83.github.io/pigParty/
+> https://pig-party.vercel.app/
 
 ### Workflow
 
